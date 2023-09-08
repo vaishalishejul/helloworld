@@ -1,5 +1,5 @@
 FROM centos:centos7
-MAINTAINER "Vaishali Shejul"
+MAINTAINER "Vaishali G Shejul"
 RUN yum install httpd -y
 RUN yum install git -y
 RUN yum install docker -y
